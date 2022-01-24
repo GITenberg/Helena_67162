@@ -1,0 +1,36 @@
+_repo: Helena_67162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Machado de Assis
+    aliases:
+    - Assis, Joaquim Maria Machado de
+    - Assis, Machado de
+    - De Assis, Machado
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '9685'
+    url: http://www.gutenberg.org/2009/agents/9685
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Machado_de_Assis
+    - https://fr.wikipedia.org/wiki/Joaquim_Maria_Machado_de_Assis
+    - https://pt.wikipedia.org/wiki/Machado_de_Assis
+description: ''
+gutenberg_issued: '2022-01-14'
+identifiers:
+  gutenberg: '67162'
+language: pt
+pgterms:marc904: https://digital.bbm.usp.br/handle/bbm/4827
+pgterms:marc905: 20211229083024deassis
+pgterms:marc906: '1876'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by the Biblioteca
+  Brasiliana USP Digital.)
+publication_note: Brazil :B.L. GARNIER,1876.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Helena
+url: http://www.gutenberg.org/ebooks/67162
